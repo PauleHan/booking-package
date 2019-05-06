@@ -1,0 +1,1244 @@
+# WordPress Blank Pot
+# Copyright (C) 2014 ...
+# This file is distributed under the GNU General Public License v2 or later.
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Booking "
+"Package v1.0.9\n"
+"POT-Creation-Date: 2018-05-24 "
+"19:55+0900\n"
+"PO-Revision-Date: \n"
+"Last-Translator: Masaaki Tanaka "
+"<utillty.pole@gmail.com>\n"
+"Language-Team: Saasproject "
+"<info@saasproject.net>\n"
+"Report-Msgid-Bugs-To: "
+"Translator Name "
+"<translations@example.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; "
+"charset=UTF-8\n"
+"Content-Transfer-Encoding: "
+"8bit\n"
+"Plural-Forms: nplurals=2; "
+"plural=n != 1;\n"
+"X-Textdomain-Support: yesX-"
+"Generator: Poedit 1.6.4\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;"
+"esc_html_e;esc_html_x:1,2c;"
+"esc_html__;esc_attr_e;"
+"esc_attr_x:1,2c;esc_attr__;"
+"_ex:1,2c;_nx:4c,1,2;"
+"_nx_noop:4c,1,2;_x:1,2c;_n:1,2;"
+"_n_noop:1,2;__ngettext:1,2;"
+"__ngettext_noop:1,2;_c,"
+"_nc:4c,1,2\n"
+"X-Poedit-Basepath: ..\n"
+"Language: en_US\n"
+"X-Generator: Poedit 2.0.4\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: index.php:208
+msgid ""
+"We do not accept reservations "
+"for this calendar."
+msgstr ""
+
+#: index.php:302 index.php:373
+msgid "Booking Package"
+msgstr ""
+
+#: index.php:316 index.php:374
+#: index.php:490
+msgid "Report & Booking"
+msgstr ""
+
+#: index.php:326 index.php:375
+msgid "Calendar Setting"
+msgstr ""
+
+#: index.php:335 index.php:376
+msgid "General Setting"
+msgstr ""
+
+#: index.php:517
+msgid "List of visitors"
+msgstr ""
+
+#: index.php:518 index.php:2152
+msgid "Booking now"
+msgstr ""
+
+#: index.php:542 index.php:727
+#: index.php:834 index.php:847
+#: index.php:1076
+msgid "Title"
+msgstr ""
+
+#: index.php:543 index.php:848
+#: index.php:1077
+msgid "Message"
+msgstr ""
+
+#: index.php:545 index.php:850
+#: index.php:1079
+msgid "Yes"
+msgstr ""
+
+#: index.php:546 index.php:851
+#: index.php:1080
+msgid "No"
+msgstr ""
+
+#: index.php:655 index.php:2018
+msgid "Schedule setting"
+msgstr ""
+
+#: index.php:665 index.php:2035
+msgid "Add new calendar"
+msgstr ""
+
+#: index.php:677 index.php:2034
+msgid "Return to Calendar list"
+msgstr ""
+
+#: index.php:683
+msgid "Schedule"
+msgstr ""
+
+#: index.php:684 index.php:964
+msgid "Form fields"
+msgstr ""
+
+#: index.php:685 index.php:965
+msgid "Services"
+msgstr ""
+
+#: index.php:686
+msgid "Guests"
+msgstr ""
+
+#: index.php:687 index.php:966
+msgid "Emails message"
+msgstr ""
+
+#: index.php:688 index.php:961
+msgid "Setting"
+msgstr ""
+
+#: index.php:726
+msgid "Time"
+msgstr ""
+
+#: index.php:728
+msgid "Capacity"
+msgstr ""
+
+#: index.php:729
+msgid "Remainder"
+msgstr ""
+
+#: index.php:730
+msgid "Stop"
+msgstr ""
+
+#: index.php:731 index.php:1917
+msgid "Delete"
+msgstr ""
+
+#: index.php:742
+msgid "Booking acceptance"
+msgstr ""
+
+#: index.php:744 index.php:2056
+#: lib/Setting.php:118
+#: lib/Setting.php:136
+#: lib/Setting.php:142
+msgid "Enable"
+msgstr ""
+
+#: index.php:765 index.php:1027
+msgid "Enable / Disable"
+msgstr ""
+
+#: index.php:767 index.php:1029
+msgid ""
+"Enable this email notification"
+msgstr ""
+
+#: index.php:771 index.php:1033
+msgid "Email format"
+msgstr ""
+
+#: index.php:837
+msgid "Reset"
+msgstr ""
+
+#: index.php:838 index.php:1923
+msgid "Close"
+msgstr ""
+
+#: index.php:969
+msgid "Sync"
+msgstr ""
+
+#: index.php:970
+msgid "Subscription details"
+msgstr ""
+
+#: index.php:976 index.php:998
+msgid "Save all settings"
+msgstr ""
+
+#: index.php:1062 index.php:1921
+msgid "Save"
+msgstr ""
+
+#: index.php:1088
+msgid ""
+"The Google Calendar API lets "
+"you share customer information "
+"between the Booking Package and "
+"Google Calendar."
+msgstr ""
+
+#: index.php:1089
+msgid ""
+"When you create or edit a new "
+"event in Google Calendar, it "
+"will also be sent to the "
+"booking package."
+msgstr ""
+
+#: index.php:1090
+msgid ""
+"For details on how to set up "
+"please read that <a id="
+"\"googleCalendarLink\" href="
+"\"https://saasproject.net/"
+"googleCalendar/\" target="
+"\"_blank\">how to set up sync "
+"for Booking Package and Google "
+"Calendar</a>. "
+msgstr ""
+
+#: index.php:1529 index.php:1540
+msgid "Upgrade"
+msgstr ""
+
+#: index.php:1915
+msgid "Error"
+msgstr ""
+
+#: index.php:1916
+msgid "Add"
+msgstr ""
+
+#: index.php:1918
+msgid "Edit"
+msgstr ""
+
+#: index.php:1919
+msgid "Change"
+msgstr ""
+
+#: index.php:1920
+msgid "Return"
+msgstr ""
+
+#: index.php:1922
+msgid "Cancel"
+msgstr ""
+
+#: index.php:1924
+msgid "Help"
+msgstr ""
+
+#: index.php:1925 index.php:2040
+#: index.php:2089
+msgid "Price"
+msgstr ""
+
+#: index.php:1926
+msgid "Warning"
+msgstr ""
+
+#: index.php:1927
+msgid "Booking"
+msgstr ""
+
+#: index.php:1928
+msgid "January"
+msgstr ""
+
+#: index.php:1929
+msgid "February"
+msgstr ""
+
+#: index.php:1930
+msgid "March"
+msgstr ""
+
+#: index.php:1931
+msgid "April"
+msgstr ""
+
+#: index.php:1932 index.php:1944
+msgid "May"
+msgstr ""
+
+#: index.php:1933
+msgid "June"
+msgstr ""
+
+#: index.php:1934
+msgid "July"
+msgstr ""
+
+#: index.php:1935
+msgid "August"
+msgstr ""
+
+#: index.php:1936
+msgid "September"
+msgstr ""
+
+#: index.php:1937
+msgid "October"
+msgstr ""
+
+#: index.php:1938
+msgid "November"
+msgstr ""
+
+#: index.php:1939
+msgid "December"
+msgstr ""
+
+#: index.php:1940
+msgid "Jan"
+msgstr ""
+
+#: index.php:1941
+msgid "Feb"
+msgstr ""
+
+#: index.php:1942
+msgid "Mar"
+msgstr ""
+
+#: index.php:1943
+msgid "Apr"
+msgstr ""
+
+#: index.php:1945
+msgid "Jun"
+msgstr ""
+
+#: index.php:1946
+msgid "Jul"
+msgstr ""
+
+#: index.php:1947
+msgid "Aug"
+msgstr ""
+
+#: index.php:1948
+msgid "Sep"
+msgstr ""
+
+#: index.php:1949
+msgid "Oct"
+msgstr ""
+
+#: index.php:1950
+msgid "Nov"
+msgstr ""
+
+#: index.php:1951
+msgid "Dec"
+msgstr ""
+
+#: index.php:1952
+#: lib/Schedule.php:3417
+msgid "Sunday"
+msgstr ""
+
+#: index.php:1953
+#: lib/Schedule.php:3417
+msgid "Monday"
+msgstr ""
+
+#: index.php:1954
+#: lib/Schedule.php:3417
+msgid "Tuesday"
+msgstr ""
+
+#: index.php:1955
+#: lib/Schedule.php:3417
+msgid "Wednesday"
+msgstr ""
+
+#: index.php:1956
+#: lib/Schedule.php:3417
+msgid "Thursday"
+msgstr ""
+
+#: index.php:1957
+#: lib/Schedule.php:3417
+msgid "Friday"
+msgstr ""
+
+#: index.php:1958
+#: lib/Schedule.php:3417
+msgid "Saturday"
+msgstr ""
+
+#: index.php:1959
+msgid "Sun"
+msgstr ""
+
+#: index.php:1960
+msgid "Mon"
+msgstr ""
+
+#: index.php:1961
+msgid "Tue"
+msgstr ""
+
+#: index.php:1962
+msgid "Wed"
+msgstr ""
+
+#: index.php:1963
+msgid "Thu"
+msgstr ""
+
+#: index.php:1964
+msgid "Fri"
+msgstr ""
+
+#: index.php:1965
+msgid "Sat"
+msgstr ""
+
+#: index.php:1966
+msgid "Booking Date"
+msgstr ""
+
+#: index.php:1967
+msgid "Arrival (Check-in)"
+msgstr ""
+
+#: index.php:1968
+msgid "Departure (Check-out)"
+msgstr ""
+
+#: index.php:1969
+msgid "Arrival"
+msgstr ""
+
+#: index.php:1970
+msgid "Departure"
+msgstr ""
+
+#: index.php:1971
+msgid "Check-in"
+msgstr ""
+
+#: index.php:1972
+msgid "Check-out"
+msgstr ""
+
+#: index.php:1973
+msgid "Total number of guests"
+msgstr ""
+
+#: index.php:1974
+msgid "Total length of stay"
+msgstr ""
+
+#: index.php:1975
+msgid "Additional fees"
+msgstr ""
+
+#: index.php:1976
+msgid "Accommodation fees"
+msgstr ""
+
+#: index.php:1977
+msgid "Total price"
+msgstr ""
+
+#: index.php:1978
+msgid "Summary"
+msgstr ""
+
+#: index.php:1979
+msgid "night"
+msgstr ""
+
+#: index.php:1980
+msgid "nights"
+msgstr ""
+
+#: index.php:1985
+msgid "Clear"
+msgstr ""
+
+#: index.php:1986
+msgid "person"
+msgstr ""
+
+#: index.php:1987
+msgid "people"
+msgstr ""
+
+#: index.php:1988
+#, php-format
+msgid "Please choose %s"
+msgstr ""
+
+#: index.php:1989
+#, php-format
+msgid ""
+"Please tap here and choose %s"
+msgstr ""
+
+#: index.php:1996
+msgid "No reservations"
+msgstr ""
+
+#: index.php:1997
+msgid "No schedules"
+msgstr ""
+
+#: index.php:1998
+msgid "APPROVED"
+msgstr ""
+
+#: index.php:1999
+msgid "PENDING"
+msgstr ""
+
+#: index.php:2001
+msgid "Confirm send email"
+msgstr ""
+
+#: index.php:2002 index.php:2008
+msgid ""
+"Send email notification to "
+"customer and admin about this "
+"operation?"
+msgstr ""
+
+#: index.php:2003
+msgid "Confirm contents update"
+msgstr ""
+
+#: index.php:2004
+msgid ""
+"Update to pending status about "
+"this operation?"
+msgstr ""
+
+#: index.php:2005
+msgid ""
+"Update to approval state about "
+"this operation?"
+msgstr ""
+
+#: index.php:2006
+msgid "Refund confirmation"
+msgstr ""
+
+#: index.php:2007
+msgid ""
+"This booking has been paid by "
+"credit card. Do you refund the "
+"price to the customer?"
+msgstr ""
+
+#: index.php:2009
+msgid "Confirm deletion of data"
+msgstr ""
+
+#: index.php:2010
+msgid ""
+"Do you delete the booking about "
+"this operation?"
+msgstr ""
+
+#: index.php:2011 index.php:2109
+msgid ""
+"Please upgrade your free plan "
+"to enable this feature."
+msgstr ""
+
+#: index.php:2012 index.php:2160
+msgid ""
+"Service is not registered. "
+msgstr ""
+
+#: index.php:2013 index.php:2161
+msgid ""
+"Please create a service on the "
+"setting page."
+msgstr ""
+
+#: index.php:2014
+msgid ""
+"There is no room to booking"
+msgstr ""
+
+#: index.php:2019
+#, php-format
+msgid "Schedule setting on %s"
+msgstr ""
+
+#: index.php:2020
+msgid "hour"
+msgstr ""
+
+#: index.php:2021
+msgid "minutes"
+msgstr ""
+
+#: index.php:2022
+#, php-format
+msgid "Choose %s"
+msgstr ""
+
+#: index.php:2023
+msgid "Select booking business"
+msgstr ""
+
+#: index.php:2024
+msgid "Calendar status"
+msgstr ""
+
+#: index.php:2025
+msgid ""
+"Enable the service function"
+msgstr ""
+
+#: index.php:2026
+msgid "Plan name"
+msgstr ""
+
+#: index.php:2027
+msgid ""
+"Day (Be completed within your "
+"business hours)"
+msgstr ""
+
+#: index.php:2028
+msgid "Accommodation (Hotel)"
+msgstr ""
+
+#: index.php:2029
+msgid "Publish calendar"
+msgstr ""
+
+#: index.php:2030
+msgid "Unpublish calendar"
+msgstr ""
+
+#: index.php:2031
+msgid ""
+"An unknown cause of error "
+"occurred"
+msgstr ""
+
+#: index.php:2032
+#, php-format
+msgid ""
+"Do you delete the \"%s\" about "
+"this operation?"
+msgstr ""
+
+#: index.php:2033
+msgid "Edit schedule"
+msgstr ""
+
+#: index.php:2036
+msgid "Status"
+msgstr ""
+
+#: index.php:2037
+msgid "Short Code"
+msgstr ""
+
+#: index.php:2038 index.php:2087
+msgid "Name"
+msgstr ""
+
+#: index.php:2039 index.php:2088
+#: lib/Setting.php:136
+#: lib/Setting.php:142
+msgid "Active"
+msgstr ""
+
+#: index.php:2041 index.php:2090
+msgid "Duration time"
+msgstr ""
+
+#: index.php:2042 index.php:2091
+msgid "Unique ID"
+msgstr ""
+
+#: index.php:2043 index.php:2092
+msgid "Value"
+msgstr ""
+
+#: index.php:2044 index.php:2093
+msgid "Required"
+msgstr ""
+
+#: index.php:2045 index.php:2094
+msgid "Is Name"
+msgstr ""
+
+#: index.php:2046 index.php:2095
+msgid ""
+"Is a location in Google Calendar"
+msgstr ""
+
+#: index.php:2047 index.php:2096
+msgid "Is Email"
+msgstr ""
+
+#: index.php:2048 index.php:2097
+msgid "Type"
+msgstr ""
+
+#: index.php:2049 index.php:2098
+msgid "Options"
+msgstr ""
+
+#: index.php:2050 index.php:2083
+msgid "Add service"
+msgstr ""
+
+#: index.php:2051 index.php:2082
+msgid "Change ranking"
+msgstr ""
+
+#: index.php:2052 index.php:2081
+msgid "Add filed"
+msgstr ""
+
+#: index.php:2053 index.php:2122
+#, php-format
+msgid ""
+"Do you delete service of \"%s\"?"
+msgstr ""
+
+#: index.php:2054 index.php:2123
+#, php-format
+msgid ""
+"Do you delete filed of \"%s\"?"
+msgstr ""
+
+#: index.php:2055
+#: lib/Setting.php:136
+#: lib/Setting.php:142
+msgid "Disable"
+msgstr ""
+
+#: index.php:2057
+msgid "New booking"
+msgstr ""
+
+#: index.php:2058
+msgid "New booking(Visitor)"
+msgstr ""
+
+#: index.php:2059
+msgid "Approval of booking"
+msgstr ""
+
+#: index.php:2060
+msgid "Pending of booking"
+msgstr ""
+
+#: index.php:2061 index.php:2107
+msgid "Cancellation of booking"
+msgstr ""
+
+#: index.php:2062
+msgid "Delete of booking"
+msgstr ""
+
+#: index.php:2063 index.php:2129
+msgid "Subject"
+msgstr ""
+
+#: index.php:2064 index.php:2130
+msgid "Content"
+msgstr ""
+
+#: index.php:2065
+msgid "Google Calendar ID"
+msgstr ""
+
+#: index.php:2066
+msgid "State"
+msgstr ""
+
+#: index.php:2067
+msgid "Date"
+msgstr ""
+
+#: index.php:2068
+msgid "Number of rooms available"
+msgstr ""
+
+#: index.php:2069
+msgid "Cost per night"
+msgstr ""
+
+#: index.php:2070
+msgid ""
+"Maximum number of people "
+"staying in one room"
+msgstr ""
+
+#: index.php:2071
+msgid ""
+"Include children in the maximum "
+"number of people in the room"
+msgstr ""
+
+#: index.php:2072
+msgid "Exclude"
+msgstr ""
+
+#: index.php:2073
+msgid "Include"
+msgstr ""
+
+#: index.php:2074
+msgid ""
+"Confirm deletion of calendar"
+msgstr ""
+
+#: index.php:2079
+msgid "Cancel subscription"
+msgstr ""
+
+#: index.php:2080
+msgid ""
+"You can use following "
+"shortcodes in content editer."
+msgstr ""
+
+#: index.php:2084
+msgid "New Course"
+msgstr ""
+
+#: index.php:2085
+msgid "New service"
+msgstr ""
+
+#: index.php:2086
+msgid "Refresh token"
+msgstr ""
+
+#: index.php:2100
+msgid ""
+"Email is sending to Admin after "
+"Making of booking."
+msgstr ""
+
+#: index.php:2102
+msgid ""
+"Email is sending to visitor "
+"after Making of booking."
+msgstr ""
+
+#: index.php:2105
+msgid ""
+"Booking status is set to Pending"
+msgstr ""
+
+#: index.php:2106
+msgid ""
+"Email is sending to Visitor "
+"after Booking set as Pending."
+msgstr ""
+
+#: index.php:2108
+msgid ""
+"Email is sending to Visitor "
+"after Deletion of booking."
+msgstr ""
+
+#: index.php:2110
+msgid ""
+"The Service account must be in "
+"JSON format."
+msgstr ""
+
+#: index.php:2112
+msgid "Subscriptions ID"
+msgstr ""
+
+#: index.php:2113
+msgid "Invoice ID"
+msgstr ""
+
+#: index.php:2114
+msgid "Expiration date"
+msgstr ""
+
+#: index.php:2115
+msgid "Customers email"
+msgstr ""
+
+#: index.php:2116
+msgid ""
+"By using iCal you can share "
+"calendars and reservations for "
+"Google Calendar, Apple "
+"Calendar, iCal format."
+msgstr ""
+
+#: index.php:2118
+msgid ""
+"Mailgun is an email automation "
+"service. It offers a complete "
+"cloud-based email service for "
+"sending, receiving and tracking "
+"email sent through your "
+"websites and applications."
+msgstr ""
+
+#: index.php:2119
+msgid ""
+"Stripe is the best way to "
+"accept payments online and in "
+"mobile apps."
+msgstr ""
+
+#: index.php:2120
+#, php-format
+msgid ""
+"Do you delete option of \"%s\"?"
+msgstr ""
+
+#: index.php:2121
+msgid ""
+"Do you really cancel the "
+"subscription?"
+msgstr ""
+
+#: index.php:2124
+msgid "General"
+msgstr ""
+
+#: index.php:2125
+#: lib/Setting.php:119
+msgid "Country"
+msgstr ""
+
+#: index.php:2126
+msgid "Selected country"
+msgstr ""
+
+#: index.php:2127
+msgid "Frequently used countries"
+msgstr ""
+
+#: index.php:2128
+msgid "Other countries"
+msgstr ""
+
+#: index.php:2134 index.php:2157
+msgid "Credit card"
+msgstr ""
+
+#: index.php:2135
+msgid "Submit Payment"
+msgstr ""
+
+#: index.php:2136
+msgid ""
+"You have to input missing text "
+"fields."
+msgstr ""
+
+#: index.php:2137
+msgid "Please choose a plan."
+msgstr ""
+
+#: index.php:2138
+msgid "First Name"
+msgstr ""
+
+#: index.php:2139
+msgid "Last Name"
+msgstr ""
+
+#: index.php:2140
+msgid "Email address"
+msgstr ""
+
+#: index.php:2141
+#, php-format
+msgid ""
+"By taking out a subscription, "
+"you agree to %s."
+msgstr ""
+
+#: index.php:2142
+msgid "the terms of Service"
+msgstr ""
+
+#: index.php:2143
+msgid ""
+"Thank you for signing up for "
+"the subscription."
+msgstr ""
+
+#: index.php:2144
+msgid ""
+"Please reload this browser."
+msgstr ""
+
+#: index.php:2148
+msgid ""
+"Please fill in your details"
+msgstr ""
+
+#: index.php:2149
+msgid "Reservation details"
+msgstr ""
+
+#: index.php:2150
+msgid "Booking details"
+msgstr ""
+
+#: index.php:2151
+msgid "Your Booking Details"
+msgstr ""
+
+#: index.php:2153
+msgid "Return to schedules"
+msgstr ""
+
+#: index.php:2154
+msgid "Return to calendar"
+msgstr ""
+
+#: index.php:2155
+msgid "Reservation Completed"
+msgstr ""
+
+#: index.php:2156
+msgid "Booking Completed"
+msgstr ""
+
+#: index.php:2158
+msgid "Payment & Booking"
+msgstr ""
+
+#: index.php:2159
+msgid "Booking & Payment now"
+msgstr ""
+
+#: lib/CreditCard.php:79
+#: lib/CreditCard.php:225
+msgid ""
+"The request was unacceptable, "
+"often due to missing a required "
+"parameter."
+msgstr ""
+
+#: lib/CreditCard.php:83
+#: lib/CreditCard.php:227
+msgid "No valid API key provided."
+msgstr ""
+
+#: lib/CreditCard.php:87
+#: lib/CreditCard.php:229
+msgid ""
+"The parameters were valid but "
+"the request failed."
+msgstr ""
+
+#: lib/CreditCard.php:91
+#: lib/CreditCard.php:231
+msgid ""
+"The requested resource doesn't "
+"exist."
+msgstr ""
+
+#: lib/CreditCard.php:95
+#: lib/CreditCard.php:233
+msgid ""
+"The request conflicts with "
+"another request (perhaps due to "
+"using the same idempotent key)."
+msgstr ""
+
+#: lib/CreditCard.php:99
+#: lib/CreditCard.php:235
+msgid ""
+"Too many requests hit the API "
+"too quickly. We recommend an "
+"exponential backoff of your "
+"requests."
+msgstr ""
+
+#: lib/CreditCard.php:103
+#: lib/CreditCard.php:237
+msgid ""
+"Something went wrong on "
+"Stripe's end."
+msgstr ""
+
+#: lib/CreditCard.php:107
+msgid "8007"
+msgstr ""
+
+#: lib/Schedule.php:1738
+#, php-format
+msgid ""
+"There is no vacancy in the room "
+"on %s"
+msgstr ""
+
+#: lib/Schedule.php:1744
+#, php-format
+msgid "Booking on %s is suspended"
+msgstr ""
+
+#: lib/Schedule.php:1755
+#: lib/Schedule.php:1941
+msgid ""
+"Schedule data was not found"
+msgstr ""
+
+#: lib/Setting.php:97
+msgid "Site name"
+msgstr ""
+
+#: lib/Setting.php:98
+msgid "To (Email Address)"
+msgstr ""
+
+#: lib/Setting.php:99
+msgid "To (Email Title)"
+msgstr ""
+
+#: lib/Setting.php:100
+msgid "From (Email Address)"
+msgstr ""
+
+#: lib/Setting.php:101
+msgid "From (Email Title)"
+msgstr ""
+
+#: lib/Setting.php:107
+msgid "Public days from today"
+msgstr ""
+
+#: lib/Setting.php:108
+msgid ""
+"Unavailable days from today"
+msgstr ""
+
+#: lib/Setting.php:118
+msgid ""
+"Automatic approve of booking"
+msgstr ""
+
+#: lib/Setting.php:120
+msgid "Currency"
+msgstr ""
+
+#: lib/Setting.php:121
+msgid "Date format"
+msgstr ""
+
+#: lib/Setting.php:122
+msgid ""
+"Position of the day of the week"
+msgstr ""
+
+#: lib/Setting.php:122
+msgid "Before the date and time"
+msgstr ""
+
+#: lib/Setting.php:122
+msgid "After the date and time"
+msgstr ""
+
+#: lib/Setting.php:125
+msgid "Font size"
+msgstr ""
+
+#: lib/Setting.php:126
+msgid "Background color"
+msgstr ""
+
+#: lib/Setting.php:127
+msgid ""
+"Calendar background color with "
+"schedule"
+msgstr ""
+
+#: lib/Setting.php:128
+msgid ""
+"Calendar background color with "
+"no schedule"
+msgstr ""
+
+#: lib/Setting.php:129
+msgid ""
+"Schedule and service background "
+"color"
+msgstr ""
+
+#: lib/Setting.php:130
+msgid ""
+"Background color of selected "
+"label"
+msgstr ""
+
+#: lib/Setting.php:131
+msgid ""
+"Background color when the "
+"pointer overlaps a link"
+msgstr ""
+
+#: lib/Setting.php:132
+msgid "Border color"
+msgstr ""
+
+#: lib/Setting.php:137
+msgid "API Base URL"
+msgstr ""
+
+#: lib/Setting.php:138
+msgid "API Key"
+msgstr ""
+
+#: lib/Setting.php:139
+msgid "Password"
+msgstr ""
+
+#: lib/Setting.php:143
+msgid "Public Key"
+msgstr ""
+
+#: lib/Setting.php:144
+msgid "Secret Key"
+msgstr ""
+
+#: lib/Setting.php:517
+msgid "SELECT"
+msgstr ""
