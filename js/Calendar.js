@@ -659,6 +659,13 @@
             cost = format(cost);
             cost = "£" + cost;
             
+        } else if (currency.toLocaleUpperCase() == 'UAH') {
+            
+            cost = Number(cost) / 100;
+            cost = cost.toFixed(2);
+            cost = format(cost);
+            cost = cost + " грн.";
+            
         }
         
         console.log("currency = " + currency + " cost = " + cost);
