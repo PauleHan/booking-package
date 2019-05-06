@@ -2,13 +2,19 @@
 # Booking Package - Appointment Booking Calendar System
 
 Contributors: masaakitanaka
+
 Donate link: https://saasproject.net/donate/
-Tags: Booking, booking system, booking plugin, appointment booking, appointment booking system, Booking calendar, bookings, booking engine, booking form, Booking Software, reservation system, availability calendar, reservations, reservation plugin, reservation calendar, Hotel Booking, Event Booking, Reservation, Class Booking, online booking calendar, online booking software, appointment, appointment booking calendar, Rental, booking seats, resort booking, hotel booking system, Activity Booking, booking portal, online booking, wordpress booking, booking module, booking form, reserve form, reserve calendar, room booking, salon booking, beauty salon booking, tour guide booking, restaurant booking, cafe booking, conference room booking, cooking class booking, culture classroom booking, swimming classroom booking, music classroom booking, car rental booking, hospital booking, clinic booking, dentist booking, facility booking, tour booking, booking to visit, private residence booking, venue booking, sports gym booking, booking tennis courts, ship booking, booking a rental cycle, booking theater, Management online booking, spas booking, barber shop booking, hair salon booking, beauty center booking, appointment scheduling, reservation notifications, online reservation, online reservation system, calendar, free calendar, event calendar, Interactive Calendar, online calendar, web calendar, event, availability, calendar plugin, wordpress calendar, create calendar, simple calendar, book, bookable, calendar widget, Google Calendar, events calendar, calendars, holiday calendar, jQuery calendar, upcoming events, event registration, calendar localization, google calendar booking system, meeting, calendar shortcode, custom calendar, scheduling, pick date calendar, date calendar, calendar manager, calendario, calendario de compromissos, calendario de citas, reserva, Kalender, wp kalender, Online Kalender, Online buchung kalender, calendrier
+
 Requires at least: 3.5
+
 Tested up to: 5.2
+
 Stable tag: 1.3.61
+
 Requires PHP: 5.3
+
 License: GPLv2 or later
+
 License URI: http://www.gnu.org/licenses/gpl-2.0.html
 
 Booking Package is the easiest way to add online appointment booking calendar system and event calendar on your WordPress. Respond to booking at hotels, tours and hair salons etc.
