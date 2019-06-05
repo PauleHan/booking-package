@@ -163,6 +163,7 @@
                             'cfh' => 'CFH - Swiss franc',
                             'czk' => 'CZK - Koruna česká',
                             'rub' => 'RUB - Российский рубль',
+                            'uah' => 'UAH - Українська гривня',
                         )
                     ),
                     'dateFormat' => array('name' => __('Date format', $this->pluginName), 'value' => '0', 'isExtensionsValid' => 0, 'inputLimit' => 2, 'inputType' => 'RADIO', 'valueList' => array()),
